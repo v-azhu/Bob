@@ -1,1 +1,0 @@
-@call dep.pl %*
